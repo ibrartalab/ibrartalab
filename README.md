@@ -4,17 +4,7 @@ I'm a passionate full-stack web developer with a strong interest in technology a
 I'm actively learning and staying updated with the latest web technologies to deliver cutting-edge solutions.
 I'm open to collaborations on various web development projects, whether it's enhancing the client-side experience with sleek interfaces or diving into the server-side to make applications run smoothly. Let's build the web together!
 ### ✨Skills
-- Html
-- CSS
-- JavaScript
-- Bootstrip
-- Tailwind Css
-- React Js
-- Node Js
-- Express Js
-- Mongo DB
-- Power  BI
-- 
+- Html - CSS - JavaScript - Bootstrip - Tailwind Css - React Js - Node Js - Express Js - Mongo DB - Power  BI
 
   ### 📫 How to reach me 
 email: ibrartalabkhan@gmail.com

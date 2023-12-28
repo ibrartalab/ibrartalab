@@ -5,7 +5,7 @@ I'm actively learning and staying updated with the latest web technologies to de
 I'm open to collaborations on various web development projects, whether it's enhancing the client-side experience with sleek interfaces or diving into the server-side to make applications run smoothly. Let's build the web together!
 ### ✨Skills
 - Html - CSS - JavaScript - Bootstrip - Tailwind Css - React Js - Node Js - Express Js - Mongo DB - Power  BI
-- ![image](https://github.com/ibrartalab/ibrartalab/assets/126334526/23dd5a84-381b-47c4-acbf-bcfb04f3f4bc){width='30px' height='30px'}
+- ![image](https://github.com/ibrartalab/ibrartalab/assets/126334526/23dd5a84-381b-47c4-acbf-bcfb04f3f4bc){width=30px height=30px}
 
   ### 📫 How to reach me 
 email: ibrartalabkhan@gmail.com

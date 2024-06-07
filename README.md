@@ -1,4 +1,4 @@
-# Full Stack-Engineer and Data Visualization Expert
+# Software Engineer (full stack) and Data Visualization Expert
 ##  👋 Hi, I’m Ibrar Khan
 I'm a passionate full-stack web developer with a strong interest in technology and a focus on web development. I thrive on transforming ideas into interactive and user-friendly web applications.
 I'm actively learning and staying updated with the latest web technologies to deliver cutting-edge solutions.

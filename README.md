@@ -1,4 +1,4 @@
-[linkedinbanner (3)](https://github.com/user-attachments/assets/c12ba9d3-d129-4f06-8d30-74d6047846a6)
+![linkedinbanner (3)](https://github.com/user-attachments/assets/c12ba9d3-d129-4f06-8d30-74d6047846a6)
 # Software Engineer (full stack) and Data Visualization Expert
 ##  👋 I'm a passionate Software Engineer and Full-Stack Developer with a strong interest in technology and a focus on both front-end and back-end development. I thrive on transforming ideas into in!
 teractive, user-friendly applications. 

@@ -15,19 +15,16 @@ Let's build the future of software together!
 
 ## 🛠️ Tools
 
-<img src="https://github.com/user-attachments/assets/c82dbafb-396c-4c76-ac6d-3030350a7fd9" alt="Tool 1" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/bd038a4f-1073-42d8-96ae-27ad6ccac8f8" alt="Tool 2" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/4c27a57e-5268-4882-ae19-6b89a163be05" alt="Tool 3" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/5c6e614c-4f1e-45a9-9e1f-328bdb15aa51" alt="Tool 4" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/221fc4b9-7546-4234-bdb5-e2c4f6915737" alt="Tool 5" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/469f5da5-8d2a-4db9-965a-f8fecccbcf54" alt="Tool 6" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/01764e0d-95c0-41e5-92a6-4ec71a3d5aa3" alt="Tool 7" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/a6230362-d0ca-410b-9701-02893be5e97a" alt="Tool 8" width="64" height="64" background-color="white">
-<img src="https://github.com/user-attachments/assets/f2b0c557-fff3-409e-b157-f2cabffd9561" alt="Tool 9" width="64" height="64">
-<img src="https://github.com/user-attachments/assets/3f7b1eb8-6a3c-49bf-8822-8a2207dc3042" alt="Tool 10" width="64" height="64">
-
-
-
+<img src="https://github.com/user-attachments/assets/c82dbafb-396c-4c76-ac6d-3030350a7fd9" alt="Tool 1" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/bd038a4f-1073-42d8-96ae-27ad6ccac8f8" alt="Tool 2" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/4c27a57e-5268-4882-ae19-6b89a163be05" alt="Tool 3" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/5c6e614c-4f1e-45a9-9e1f-328bdb15aa51" alt="Tool 4" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/221fc4b9-7546-4234-bdb5-e2c4f6915737" alt="Tool 5" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/469f5da5-8d2a-4db9-965a-f8fecccbcf54" alt="Tool 6" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/01764e0d-95c0-41e5-92a6-4ec71a3d5aa3" alt="Tool 7" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/ebd8d051-b47b-4ba2-ae8d-705cef11024d" alt="Tool 8" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/f2b0c557-fff3-409e-b157-f2cabffd9561" alt="Tool 9" width="32" height="32">
+<img src="https://github.com/user-attachments/assets/3f7b1eb8-6a3c-49bf-8822-8a2207dc3042" alt="Tool 10" width="32" height="32">
 
 ## 📫 How to Reach Me
 

@@ -1,4 +1,5 @@
-![linkedinbanner (3)](https://github.com/user-attachments/assets/c12ba9d3-d129-4f06-8d30-74d6047846a6)
+![Group 517](https://github.com/user-attachments/assets/be4f89c1-d9ce-4201-ae0b-aa22f3c0f058)
+
 # 👨‍💻 Software Engineer (Full Stack) | Data Analyst
 
 Hi there! I'm a passionate **Software Engineer** and **Full-Stack Developer** with a love for building scalable, user-friendly web and mobile applications. I specialize in both frontend and backend development and have a strong flair for clean UI/UX and impactful data analysis.
